@@ -1,11 +1,11 @@
 import React from 'react';
-import Card from './components/Card/Card'
+import GifGrid from './GifGrid/GifGrid'
 
 function App() {
   return (
     <div className="App">
 
-<Card />
+<GifGrid />
     </div>
   );
 }
