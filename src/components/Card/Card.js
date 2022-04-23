@@ -5,7 +5,7 @@ const Card = () => {
   return (
     <div>
         <div class="card-container">
-            <img id="ContainerCard-img"src={logo_kratos} />
+            <img id="ContainerCard-img"src={logo_kratos} alt="no found"/>
           <div class="contenido">
             <h3>Kratos</h3>
             <p>El Fantasma de Esparta</p>
