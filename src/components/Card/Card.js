@@ -10,7 +10,7 @@ const Card = () => {
         <div class="card-container">
             <img id="ContainerCard-img"src={logo_kratos} alt="no found"/>
           <div class="contenido">
-            <h3>KRATOS</h3>
+            <h3>Kratos</h3>
             <p>El Fantasma de Esparta</p>
           </div>
         </div>
